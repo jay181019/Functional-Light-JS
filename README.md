@@ -22,7 +22,7 @@ But I want you to be able to apply some of the fundamentals of FP to your JavaSc
 
 **To read more about the motivations and perspective behind this book, check out the [Preface](manuscript/preface.md).**
 
-## Book
+## Books
 
 [Table of Contents](manuscript/README.md/#table-of-contents)
 
